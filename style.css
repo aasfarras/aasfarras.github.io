@@ -1,0 +1,19 @@
+body {
+  background-color: #111;
+}
+.pembungkus {
+  background-color: #888888;
+  margin: 10vw;
+  height: 2000px;
+}
+.bulatanabout {
+  width: 50%;
+  margin-left: 25%;
+}
+footer a {
+  color: white;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #888888;
+}
